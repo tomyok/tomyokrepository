@@ -1,0 +1,111 @@
+* { margin: 0; padding: 0; }
+html, body { height: 100%; }
+body {
+    background-color: rgb(00, 44, 211);
+    font-family: Saiyan Sans;
+    font-weight: lighter;
+}
+.inicio {
+    background-color: beige;
+    background-image: url("../webgohan/gohanbase.jpg");
+    background-size: contain;
+    background-position: center;
+    background-attachment: fixed;
+    height: 100%;
+    padding: 20%;
+}
+.tituloinicio {
+    color: rgb(255, 187, 0);
+    font-size: 4em;
+    text-align: center;
+    text-shadow: 3px 4px 2px black;
+}
+.cajatitulo1 {
+    background-color: bisque;
+    color: rgb(255, 187, 0);
+    font-size: 2.5em;
+    text-align: center;
+    text-shadow: 3px 4px 2px black;
+    border: 5px solid black;
+    background-attachment: fixed;
+}
+.pag1 {
+    background-color: antiquewhite;
+    background-image: url("../webgohan/gohanssj1.jpg");
+    background-position: center;
+    background-size: contain;
+    background-attachment: fixed;
+    height: 100%;
+    padding: 20%;
+}
+.titulopag1 {
+    color: rgb(255, 187, 0);
+    font-size: 4em;
+    text-align: center;
+    text-shadow: 3px 4px 2px black;
+    padding: 20%;
+}
+.cajatitulo2 {
+    background-color: rgb(255, 255, 255);
+    color: rgb(255, 187, 0);
+    font-size: 2.5em;
+    text-align: center;
+    text-shadow: 3px 4px 2px black;
+    border: 5px solid black;
+    background-attachment: fixed;
+    height: 60%;
+}
+.cajadecajas {
+    height: 70%;
+    width: 80%;
+    float: left;
+    border: 5px solid black;
+    margin-left: 10%;
+}
+.transicion1, .transicion2, .transicion3 {
+    background-color: blueviolet;
+    width: 30%;
+    height: 100%;
+    float: left;
+}
+.marginright {
+    margin-right: 5%;
+}
+.transicion1 {
+    background-image: url(../webgohan/transicion1.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.transicion2 {
+    background-image: url("../webgohan/transicion2.jpeg");
+    background-position: center;
+    background-size: cover;
+}
+.transicion3 {
+    background-image: url("../webgohan/transicion3.jpeg");
+    background-position: center;
+    background-size: cover;
+}
+.pag2 {
+    background-image: url("../webgohan/gohanssj2.jpg");
+    background-position: center;
+    background-size: contain;
+    background-attachment: fixed;
+    height: 100%;
+    padding: 20%;
+}
+.titulopag2 {
+    color: rgb(255, 187, 0);
+    font-size: 4em;
+    text-align: center;
+    text-shadow: 3px 4px 2px black;
+    padding: 20%;
+}
+.piedepagina {
+    background-color: rgb(255, 104, 34);
+    color: rgb(255, 187, 0);
+    font-size: 1.5em;
+    text-align: center;
+    text-shadow: 3px 4px 2px black;
+    border: 5px solid black;
+}

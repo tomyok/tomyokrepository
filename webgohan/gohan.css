@@ -1,0 +1,130 @@
+body, h1{
+    margin: 0; padding: 0;
+}
+html, body {
+    height: 100%;
+}
+body {
+    background-color: azure;
+    font-family: "Saiyan Sans";
+}
+.inicio {
+    background-color: rgba(150, 85, 255, 0.315);
+    height: 100%;
+    background-image: url("../webgohan/gohanbase.jpg");
+    background-position: center;
+    background-size: contain;
+    background-attachment: fixed;
+    padding: 20%;
+    box-sizing: border-box;
+} 
+.titulobase {
+    text-align: center;
+    font-size: 4.5em;
+    color: rgb(255, 153, 0);
+    text-shadow: 2px 4px 2px black;
+    font-weight: lighter;
+}
+.pag1 {
+    background-color: black;
+    height: 100%;
+    background-image: url("../webgohan/gohanssj1.jpg");
+    background-position: center;
+    background-size: contain;
+    background-attachment: fixed;
+    padding: 20%;
+    box-sizing: border-box;
+}
+.titulopag1ssj {
+    text-align: center;
+    font-size: 4.5em;
+    color: rgb(255, 153, 0);
+    text-shadow: 2px 4px 2px black;
+    font-weight: lighter;
+}
+.cajatitulossj {
+    border: 5px solid black;
+    background-color: rgba(150, 85, 255, 0.315);
+    background-position: center;
+    background-size: contain;
+    background-attachment: fixed;
+}
+.titulossj {
+    text-align: center;
+    font-size: 4em;
+    color: rgb(255, 153, 0);
+    text-shadow: 2px 4px 2px black;
+    font-weight: lighter;
+}
+.pag2 {
+    background-color: black;
+    height: 100%;
+    background-image: url("../webgohan/fondossj2.jpeg");
+    background-position: center;
+    background-size: contain;
+    background-attachment: fixed;
+    padding: 20%;
+    box-sizing: border-box;
+}
+.titulopag2ssj2 {
+    text-align: center;
+    font-size: 4.5em;
+    color: rgb(255, 153, 0);
+    text-shadow: 2px 4px 2px black;
+    font-weight: lighter;
+}
+.cajatitulossj2 {
+    border: 5px solid black;
+    background-color: rgba(150, 85, 255, 0.315);
+    background-position: center;
+    background-size: contain;
+    background-attachment: fixed;
+    height: 60%;
+}
+.titulossj2 {
+    text-align: center;
+    font-size: 4em;
+    color: rgb(255, 153, 0);
+    text-shadow: 2px 4px 2px black;
+    font-weight: lighter;
+}
+.cajadecajas {
+    border: 5px solid black;
+    height: 70%;
+    width: 80%;
+    margin: 1% auto;
+}
+.transicion1, .transicion2, .transicion3 {
+    background-color:blueviolet;
+    width: 30%;
+    height: 100%;
+    float: left;
+}
+.margenderecha {
+    margin-right: 5%;
+}
+.transicion1 {
+    background-image: url("../webgohan/transicion1.jpg");
+    background-position: center;
+    background-size: cover;
+}
+.transicion2 {
+    background-image: url("../webgohan/transicion2.jpeg");
+    background-position: center;
+    background-size: cover;
+}
+.transicion3 {
+    background-image: url("../webgohan/transicion3.jpeg");
+    background-position: center;
+    background-size: cover;
+}
+.piedepagina {
+    background-color: rgba(150, 85, 255, 0.315);
+    margin-top: -32px;
+    background-attachment: fixed;
+}
+.piedepagina>p {
+    font-size: 2em;
+    color: rgb(255, 153, 0);
+    text-align: center;
+}
